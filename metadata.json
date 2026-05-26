@@ -1,0 +1,6 @@
+{
+  "name": "Pixel Sandbox World",
+  "description": "A 2D multiplayer sandbox builder with block placement, seed splicing, player crafting, an active marketplace economy, lobbies, guild systems, live chat, and anti-cheat validation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
